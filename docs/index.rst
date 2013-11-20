@@ -1,12 +1,12 @@
 .. _topics-index:
 
 ==============================
-Scrapy |version| documentation
+Scrapy |version| 文档
 ==============================
 
-This documentation contains everything you need to know about Scrapy.
+本文档包括你所需要的关于Scrapy的一切。
 
-Getting help
+获得帮助
 ============
 
 Having trouble? We'd like to help!
